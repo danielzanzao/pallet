@@ -1,0 +1,14 @@
+/mnt/c/Users/danie/Documents/GitHub/teste/pallet/target/debug/deps/libss58_registry-e4ca595ae1d6bf9f.rmeta: /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/lib.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/address_format.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/error.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/registry.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/token.rs /mnt/c/Users/danie/Documents/GitHub/teste/pallet/target/debug/build/ss58-registry-3b10bec7a09c8c6a/out/registry_gen.rs
+
+/mnt/c/Users/danie/Documents/GitHub/teste/pallet/target/debug/deps/libss58_registry-e4ca595ae1d6bf9f.rlib: /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/lib.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/address_format.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/error.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/registry.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/token.rs /mnt/c/Users/danie/Documents/GitHub/teste/pallet/target/debug/build/ss58-registry-3b10bec7a09c8c6a/out/registry_gen.rs
+
+/mnt/c/Users/danie/Documents/GitHub/teste/pallet/target/debug/deps/ss58_registry-e4ca595ae1d6bf9f.d: /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/lib.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/address_format.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/error.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/registry.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/token.rs /mnt/c/Users/danie/Documents/GitHub/teste/pallet/target/debug/build/ss58-registry-3b10bec7a09c8c6a/out/registry_gen.rs
+
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/lib.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/address_format.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/error.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/registry.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ss58-registry-1.51.0/src/token.rs:
+/mnt/c/Users/danie/Documents/GitHub/teste/pallet/target/debug/build/ss58-registry-3b10bec7a09c8c6a/out/registry_gen.rs:
+
+# env-dep:OUT_DIR=/mnt/c/Users/danie/Documents/GitHub/teste/pallet/target/debug/build/ss58-registry-3b10bec7a09c8c6a/out

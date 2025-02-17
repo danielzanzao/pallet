@@ -1,0 +1,1 @@
+<E as Pairing>::G2Affine: ark_serialize::CanonicalDeserialize

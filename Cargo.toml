@@ -1,0 +1,20 @@
+[workspace]
+members = [
+    "node",
+    "pallets/biblioteca",
+    "runtime"
+]
+
+[profile.release]
+panic = "unwind"
+
+[patch.crates-io]
+sp-runtime = { git = "https://github.com/paritytech/substrate", branch = "master" }
+frame-support = { git = "https://github.com/paritytech/substrate", branch = "master" }
+frame-system = { git = "https://github.com/paritytech/substrate", branch = "master" }
+ark-ff = { git = "https://github.com/arkworks-rs/algebra", tag = "v0.4.2" }
+ark-ec = { git = "https://github.com/arkworks-rs/algebra", tag = "v0.4.2" }
+ark-poly = { git = "https://github.com/arkworks-rs/algebra", tag = "v0.4.2" }
+
+[workspace.metadata]
+default-members = ["node", "runtime"]

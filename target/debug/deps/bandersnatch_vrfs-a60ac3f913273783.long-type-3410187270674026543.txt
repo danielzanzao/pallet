@@ -1,0 +1,1 @@
+Map<core::slice::Iter<'_, &RingVrfSignature<N>>, {closure@/home/danie/.cargo/git/checkouts/ring-vrf-c71688ebb05e13dc/c86ebd4/bandersnatch_vrfs/src/lib.rs:190:29: 190:49}>

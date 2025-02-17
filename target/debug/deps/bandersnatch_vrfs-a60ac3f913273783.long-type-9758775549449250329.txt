@@ -1,0 +1,1 @@
+ring::ProverKey<ark_ff::fields::models::fp::Fp<ark_ff::fields::models::fp::montgomery_backend::MontBackend<ark_ed_on_bls12_381_bandersnatch::FqConfig, 4>, 4>, fflonk::pcs::kzg::KZG<Bls12<ark_bls12_381::Config>>, ark_ec::short_weierstrass::Affine<BandersnatchConfig>>

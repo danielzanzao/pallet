@@ -1,0 +1,12 @@
+/mnt/c/Users/danie/Documents/GitHub/teste/pallet/target/debug/deps/libsha2-9c008c85e13c62a7.rmeta: /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/lib.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/consts.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/sha256.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/sha256_utils.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/sha512.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/sha512_utils.rs
+
+/mnt/c/Users/danie/Documents/GitHub/teste/pallet/target/debug/deps/libsha2-9c008c85e13c62a7.rlib: /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/lib.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/consts.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/sha256.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/sha256_utils.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/sha512.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/sha512_utils.rs
+
+/mnt/c/Users/danie/Documents/GitHub/teste/pallet/target/debug/deps/sha2-9c008c85e13c62a7.d: /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/lib.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/consts.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/sha256.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/sha256_utils.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/sha512.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/sha512_utils.rs
+
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/lib.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/consts.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/sha256.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/sha256_utils.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/sha512.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha2-0.8.2/src/sha512_utils.rs:

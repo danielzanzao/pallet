@@ -1,0 +1,1 @@
+BandersnatchConfig: ark_ec::models::short_weierstrass::SWCurveConfig

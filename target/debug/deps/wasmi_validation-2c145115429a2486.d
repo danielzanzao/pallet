@@ -1,0 +1,11 @@
+/mnt/c/Users/danie/Documents/GitHub/teste/pallet/target/debug/deps/libwasmi_validation-2c145115429a2486.rmeta: /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/lib.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/stack.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/context.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/func.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/util.rs
+
+/mnt/c/Users/danie/Documents/GitHub/teste/pallet/target/debug/deps/libwasmi_validation-2c145115429a2486.rlib: /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/lib.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/stack.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/context.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/func.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/util.rs
+
+/mnt/c/Users/danie/Documents/GitHub/teste/pallet/target/debug/deps/wasmi_validation-2c145115429a2486.d: /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/lib.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/stack.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/context.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/func.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/util.rs
+
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/lib.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/stack.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/context.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/func.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmi-validation-0.4.1/src/util.rs:

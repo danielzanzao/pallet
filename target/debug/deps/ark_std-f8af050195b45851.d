@@ -1,0 +1,11 @@
+/mnt/c/Users/danie/Documents/GitHub/teste/pallet/target/debug/deps/libark_std-f8af050195b45851.rmeta: /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/lib.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/rand_helper.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/perf_trace.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/iterable/mod.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/iterable/rev.rs
+
+/mnt/c/Users/danie/Documents/GitHub/teste/pallet/target/debug/deps/libark_std-f8af050195b45851.rlib: /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/lib.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/rand_helper.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/perf_trace.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/iterable/mod.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/iterable/rev.rs
+
+/mnt/c/Users/danie/Documents/GitHub/teste/pallet/target/debug/deps/ark_std-f8af050195b45851.d: /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/lib.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/rand_helper.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/perf_trace.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/iterable/mod.rs /home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/iterable/rev.rs
+
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/lib.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/rand_helper.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/perf_trace.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/iterable/mod.rs:
+/home/danie/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ark-std-0.5.0/src/iterable/rev.rs:
